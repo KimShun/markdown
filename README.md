@@ -1,6 +1,6 @@
 # markdown 강의
 
-# Python Code
+# Python Code & Java Code
 
 ```python
 name = 'World'
