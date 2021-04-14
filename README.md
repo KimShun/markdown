@@ -45,9 +45,8 @@ markdown language 공부
 구글로 가고 싶으면 [이것](https://www.google.com)을 클릭하세요.
 라이선스를 보고 싶으면 [이것](./License)을 클릭하세요.
 
-구글 홈페이지는 
-야후 홈페이지는
-네이버 험페이지는
+구글 홈페이지는 https://www.google.com
+구글 홈페이지는 <https://www.google.com>
 
 강조를 사용하려면 [Emphasis 섹션](#Emphasis-is-Here)
 
