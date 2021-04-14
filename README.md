@@ -1,5 +1,9 @@
 # markdown 강의
 
+# Inline Code
+
+python에서 `random` 패키지에서 `randint` 함수를 사용하세요.
+
 # Python Code & Java Code
 
 ```python
@@ -61,6 +65,10 @@ markdown language 공부
 ## Links
 구글로 가고 싶으면 [이것](https://www.google.com)을 클릭하세요.
 라이선스를 보고 싶으면 [이것](./License)을 클릭하세요.
+
+구글 홈페이지로 가실려면 [이것]
+야후 홈페이지로 가실려면 [이것]
+네이버 홈페이지로 가실려면 [이것]
 
 구글 홈페이지는 https://www.google.com  
 구글 홈페이지는 <https://www.google.com>
