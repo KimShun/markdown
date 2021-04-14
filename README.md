@@ -38,4 +38,6 @@ markdown language 공부
 | 기본 | 왼쪽 정렬 | 가운데 | 오른쪽 정렬 |
 | 아무거나 | 아무거나 | 아무거나 | 아무거나 |
 
-구글로 [이것](https://www.google.com)
+구글로 가고 싶으면 [이것](https://www.google.com)
+
+| 첫번째 열 | 두번째 열 | 세번째 열 | 네번째 열 |
