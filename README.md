@@ -3,11 +3,11 @@
 markdown language 공부
 
 ## 차례
-1. .[강조].(#Emphasis)
-2. .[리스트].(#Lists)
-  i. .[숫자없는리스트].
-4. .[테이블].(#Tables)
-5. .[링크].(#Links)
+1. [강조](#Emphasis)
+2. [리스트](#Lists)
+  i. [숫자없는리스트]
+4. [테이블](#Tables)
+5. [링크](#Links)
 
 ## Emphasis
 
@@ -42,9 +42,14 @@ markdown language 공부
 | 아무거나 | 아무거나 | 아무거나 | 아무거나 |
 
 ## Links
-구글로 가고 싶으면 .[이것].(https://www.google.com)을 클릭하세요.
-라이선스를 보고 싶으면 .[이것].(./License)을 클릭하세요.
+구글로 가고 싶으면 [이것](https://www.google.com)을 클릭하세요.
+라이선스를 보고 싶으면 [이것](./License)을 클릭하세요.
 
 구글 홈페이지는 
+야후 홈페이지는
+네이버 험페이지는
 
-강조를 사용하려면 (헤더)
+강조를 사용하려면 [Emphasis 섹션](#Emphasis-is-Here)
+
+![구글 로고][구글이미지]
+[구글이미지]: https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png "구글 공식 로고"
