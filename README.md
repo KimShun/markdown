@@ -70,9 +70,14 @@ markdown language 공부
 야후 홈페이지로 가실려면 [이것][2]을 클릭하세요.  
 네이버 홈페이지로 가실려면 [이것][3]을 클릭하세요.
 
+[1]: https://www.google.com
+[2]: https://www.yahoo.co.jp
+[3]: https://www.naver.com
+
 구글 홈페이지는 https://www.google.com  
 구글 홈페이지는 <https://www.google.com>
 
 강조를 사용하려면 [Emphasis 섹션](#Emphasis-is-Here)
 
 ![구글 로고](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png "구글 공식 로고")
+
