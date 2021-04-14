@@ -1,6 +1,7 @@
 # markdown 강의
 
-=========
+--------
+--------
 
 markdown language 공부
 
