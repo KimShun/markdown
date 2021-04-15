@@ -1,5 +1,10 @@
 # markdown 강의
 
+[//]: # (This is a comment)
+[//]: # "And this is a comment"
+[//]: # 'Also this is a comment'
+[comment]: # (Still another comment)
+
 # Inline Code
 
 python에서 `random` 패키지에서 `randint` 함수를 사용하세요.
