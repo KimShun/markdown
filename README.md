@@ -80,7 +80,7 @@ markdown language 공부
 강조를 사용하려면 [Emphasis 섹션](#Emphasis-is-Here)
 
 ![구글 로고][구글이미지]
-[구글이미지]:"https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
+[구글이미지]:https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png
 
 <img
 src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" width = 100>
