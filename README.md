@@ -86,7 +86,7 @@ markdown language 공부
 
 ![구글 로고][구글이미지]
 
-[구글이미지]: http://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png "구글 로고이미지"
+[구글이미지]: http://www.google.com/images/branding/googlelogo/1x/googlelogo_color_27 "구글 로고이미지"
 
 <img
 src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" width = 100>
